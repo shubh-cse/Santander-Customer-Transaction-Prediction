@@ -60,5 +60,3 @@ of target column in the test set.*
 11. AUC - ROC curve
 12. Model selection
 13. Freezing best model
-
-### Please do ⭐ the repository, if it helped you in anyway.
