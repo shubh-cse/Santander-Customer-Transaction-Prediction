@@ -16,8 +16,7 @@ this loan?*
 the future, irrespective of the amount of money transacted.*
 
 ## Data Set
-*You can download the data set from kaggle.*
-https://www.kaggle.com/c/santander-customer-transaction-prediction/data
+*You can download the data set from kaggle - https://www.kaggle.com/c/santander-customer-transaction-prediction/data*
 
 ## Number of attributes
 *You are provided with an anonymized dataset containing numeric feature variables, the
@@ -28,21 +27,14 @@ of target column in the test set.*
 *Yes*
 
 ## Tools & Technologies 
-*1. Python*
-*2. R*
-*3. Machine Learning*
-*4. Jupyter Notebook*
-*5. RStudio*
+*Python, R, Machine Learning, Jupyter Notebook & RStudio*
 
 ## Algorithms
-*1. Logistic Regression*
-*2. Decision Tree*
-*3. XGBoost*
+*Logistic Regression, Decision Tree & XGBoost*
 
 ## Libraries
-*1. os
-2. numpy
-*3. pandas
-4. matplotlib
-*5. seaborn
-6. sklearn
+*os, numpy, pandas, matplotlib, seaborn, sklearn*
+
+## Table of Contents
+1.
+2.
