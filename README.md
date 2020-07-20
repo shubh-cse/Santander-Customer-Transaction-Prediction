@@ -18,7 +18,7 @@ the future, irrespective of the amount of money transacted.*
 ## Data Set
 *You can download the data set from kaggle - https://www.kaggle.com/c/santander-customer-transaction-prediction/data*
 
-## Number of attributes
+## Number of Attributes
 *You are provided with an anonymized dataset containing numeric feature variables, the
 binary target column, and a string ID_code column. The task is to predict the value
 of target column in the test set.*
@@ -46,6 +46,22 @@ of target column in the test set.*
 5. seaborn
 6. sklearn
 
+## Performance Metrics
+1. Accuracy
+2. Recall
+3. Precision
+4. Specificity
+5. F1 Score
+6. AUC - ROC Score
+7. False Positive Rate
+8. False Negative Rate
+
+## Visualizations
+1. Bar Graph
+2. Pie Chart
+3. Pair Plot
+4. Box Plot
+
 ## Table of Contents
 1.  Importing libraries
 2.  Loading data set
@@ -57,6 +73,5 @@ of target column in the test set.*
 8.  Standardization
 9.  Model training
 10. Performance metrics
-11. AUC - ROC curve
-12. Model selection
-13. Freezing best model
+11. Model selection
+12. Freezing best model
